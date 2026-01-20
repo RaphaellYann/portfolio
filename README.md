@@ -167,6 +167,7 @@ Mesmo ainda em formação, busco constantemente aplicar tecnologia de forma estr
 
 ## Contato
 
-- LinkedIn: (coloque seu link aqui)
-- GitHub: (seu usuário)
-- E-mail: (seu e-mail)
+- LinkedIn: (https://www.linkedin.com/in/raphaellyann/)
+- GitHub: (https://github.com/RaphaellYann)
+- E-mail: (raphaellyann@hotmail.com)
+- Telefone: ((48) 998479154)
