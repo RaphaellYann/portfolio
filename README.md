@@ -51,8 +51,7 @@ Projeto de Business Intelligence desenvolvido do zero em Power BI, com foco em c
 Power BI | Power Query | Linguagem M | DAX | Modelagem de Dados
 
 **Imagens**
-![Dashboard Power BI – Visão Geral](images/projeto1_01.png)
-![Dashboard Power BI – Análises](images/projeto1_02.png)
+![Dashboard Power BI – Visão Geral](images/powerbi.jpg)
 
 ---
 
@@ -83,8 +82,8 @@ Sistema web completo de votação, com autenticação, controle de acessos, múl
 Sistema 100% funcional, publicado online, consolidando o aprendizado prático em desenvolvimento Full Stack e ciclo completo de entrega de software.
 
 **Imagens**
-![VoteSys – Tela de Login](images/projeto2_01.png)
-![VoteSys – Tela Principal](images/projeto2_02.png)
+![VoteSys – Tela de Login](images/votesys1.jpg)
+![VoteSys – Tela de Votação](images/votesys2.jpg)
 
 ---
 
@@ -117,8 +116,8 @@ Reestruturar completamente a arquitetura do dashboard, tornando-o mais robusto, 
 Excel Avançado | Power Query | Power Pivot | VBA
 
 **Imagens**
-![Dashboard Excel – Versão Inicial](images/projeto3_01.png)
-![Dashboard Excel – Versão Otimizada](images/projeto3_02.png)
+![Dashboard Excel – Versão Inicial](images/excelantes.jpg)
+![Dashboard Excel – Versão Otimizada](images/exceldepois.jpg)
 
 ---
 
@@ -153,8 +152,8 @@ Sistema de controle de estoque desenvolvido do zero, focado em eficiência opera
 Java | JavaScript | HTML | CSS | IntelliJ IDEA | VS Code
 
 **Imagens**
-![Sistema de Estoque – Cadastro](images/projeto4_01.png)
-![Sistema de Estoque – Controle](images/projeto4_02.png)
+![Sistema de Estoque – Cadastro](images/estoquebel1.jpg)
+![Sistema de Estoque – Controle](images/estoquebel2.jpg)
 
 ---
 
