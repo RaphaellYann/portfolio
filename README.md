@@ -51,7 +51,7 @@ Projeto de Business Intelligence desenvolvido do zero em Power BI, com foco em c
 Power BI | Power Query | Linguagem M | DAX | Modelagem de Dados
 
 **Imagens**
-![Dashboard Power BI – Visão Geral](images/powerbi.jpg)
+![Dashboard Power BI – Visão Geral](images/powerbi1.jpg)
 
 ---
 
@@ -170,4 +170,4 @@ Mesmo ainda em formação, busco constantemente aplicar tecnologia de forma estr
 - LinkedIn: (https://www.linkedin.com/in/raphaellyann/)
 - GitHub: (https://github.com/RaphaellYann)
 - E-mail: (raphaellyann@hotmail.com)
-- Telefone: (48) 9 98479154)
+- Telefone: (48) 9 98479154
